@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[883],{429:function(e,t,n){n.r(t);var l=n(5217),r=n(7294);t.default=function(){return r.createElement(l.Z,null,r.createElement("main",{style:{minHeight:"80vh"},className:"container d-flex justify-content-center align-items-center"},r.createElement("h1",null,"Tuto  stránku bohužel neznáme :/")))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-e3fa6d5f27f86ea2fa97.js.map
